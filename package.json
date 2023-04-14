@@ -1,0 +1,27 @@
+{
+  "name": "napptive-we-make-devs-hackathon",
+  "version": "1.0.0",
+  "description": "Meal Planning Web App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigbee-s/Napptive-we-make-devs-hackathon.git"
+  },
+  "author": "Suruchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zigbee-s/Napptive-we-make-devs-hackathon/issues"
+  },
+  "homepage": "https://github.com/zigbee-s/Napptive-we-make-devs-hackathon#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "striptags": "^3.2.0"
+  }
+}
